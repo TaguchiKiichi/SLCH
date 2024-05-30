@@ -1,2 +1,1 @@
-//script
-alert("hello");
+alert("aa");
