@@ -1,4 +1,1 @@
-function a()
-{
-  alert("aaaa");
-}
+alert("aaaa");
