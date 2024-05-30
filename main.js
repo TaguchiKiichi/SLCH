@@ -1,1 +1,4 @@
-alert("aaaa");
+function a()
+{
+  alert("aaaa");
+}
