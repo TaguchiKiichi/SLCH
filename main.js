@@ -1,1 +1,1 @@
-alert("aaaa");
+document.write("AAAAAAAAAAAAAAAAAAAAAAAAAAAA");
