@@ -1,5 +1,5 @@
 alert("aa");
 
-function a(){
+function aasdad(){
 console.log("aaa");
 }
